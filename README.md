@@ -1,2 +1,3 @@
-# React-devoloper
+# React-developer
+
 Assignment-2
